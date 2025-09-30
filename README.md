@@ -1,6 +1,6 @@
 # 👋 Hola, soy Agustín Acuña
 
-Soy Front-End Developer apasionado por crear experiencias digitales atractivas, accesibles y funcionales.  
+Soy **Front-End** Developer apasionado por crear experiencias digitales atractivas, accesibles y funcionales.  
 Me enfoco en **desarrollar interfaces intuitivas** y optimizar la interacción entre usuarios y tecnología, siempre aprendiendo nuevas herramientas y tendencias del desarrollo web.  
 
 ---
