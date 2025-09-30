@@ -52,7 +52,7 @@ Me enfoco en **desarrollar interfaces intuitivas** y optimizar la interacción e
 
 ## 📫 Contacto
 - 📧 agusacuna56@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/juan-acuña-a38221298)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-acu%C3%B1a-a38221298/)  
 
 ---
 
